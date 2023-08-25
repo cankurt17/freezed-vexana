@@ -1,7 +1,7 @@
 
 [<img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/flutter_favorite.png" width="200" />](https://flutter.dev/docs/development/packages-and-plugins/favorites)
 
-Build runner edited for vexana. Fixed the fromJson issue.
+# Build runner edited for vexana. Fixed the fromJson issue.
 
 # Motivation
 
